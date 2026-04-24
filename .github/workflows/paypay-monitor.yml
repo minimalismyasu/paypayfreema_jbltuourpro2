@@ -29,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r part2/requirements.txt
+          pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
       - name: Run monitor
@@ -37,13 +37,13 @@ jobs:
           PAYPAY_URL: https://paypayfleamarket.yahoo.co.jp/search/jbl%20tour%20pro2?minPrice=10000&maxPrice=15000&conditions=NEW%2CUSED10
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python part2/paypay_monitor.py
+        run: python paypay_monitor.py
 
       - name: Commit state if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add part2/state/paypay_tour_pro2.json
+          git add state/paypay_tour_pro2.json
           if git diff --cached --quiet; then
             echo "No state changes."
             exit 0
