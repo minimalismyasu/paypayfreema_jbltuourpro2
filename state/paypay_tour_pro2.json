@@ -24,14 +24,14 @@
     "https://paypayfleamarket.yahoo.co.jp/item/z553719712|14,200円|新品 未開封 jbl tour pro 2 聴色(ゆるし色) ワイヤレスイヤホン ノイズキャンセル 合格祝い 入学祝い 就職祝い",
     "https://paypayfleamarket.yahoo.co.jp/item/z543142350|14,000円|jbl tour pro 2 新品未開封",
     "https://paypayfleamarket.yahoo.co.jp/item/z533392822|11,000円|jbl tour pro 2",
-    "https://paypayfleamarket.yahoo.co.jp/item/z558108226|14,400円|新品未開封 jbl tour pro2 black ノイズキャンセリングワイヤレスイヤホン ブラック",
     "https://paypayfleamarket.yahoo.co.jp/item/z545309348|14,300円|新品未開封 jbl tour pro2 black ノイズキャンセリングワイヤレスイヤホン ブラック",
     "https://paypayfleamarket.yahoo.co.jp/item/z556300604|11,200円|jbl tour pro 2 ワイヤレスイヤホン ブラックケース付き",
     "https://paypayfleamarket.yahoo.co.jp/item/z555312280|15,000円|【新品・未使用】jbl tour pro 2 ワイヤレスイヤホン ブラック",
     "https://paypayfleamarket.yahoo.co.jp/item/z530759858|13,500円|ほぼ新品 jbl tour pro2",
-    "https://paypayfleamarket.yahoo.co.jp/item/z537961968|15,000円|新品未開封 jbl tour pro2 ワイヤレスイヤホン",
     "https://paypayfleamarket.yahoo.co.jp/item/l1219403752|12,600円|jbl tour pro2 ワイヤレスイヤホン",
+    "https://paypayfleamarket.yahoo.co.jp/item/z558108226|14,400円|新品未開封 jbl tour pro2 black ノイズキャンセリングワイヤレスイヤホン ブラック",
     "https://paypayfleamarket.yahoo.co.jp/item/z602840208|13,000円|jbl tour pro 2 完全ワイヤレスイヤホン",
+    "https://paypayfleamarket.yahoo.co.jp/item/z537961968|15,000円|新品未開封 jbl tour pro2 ワイヤレスイヤホン",
     "https://paypayfleamarket.yahoo.co.jp/item/z549139664|13,500円|【新品】jbl tour pro 2 ワイヤレスイヤホン ゆるし色（ピンク系）",
     "https://paypayfleamarket.yahoo.co.jp/item/z588560658|13,000円|『おまけ付き』jbl tour pro 2 完全ワイヤレスイヤホン ハイブリッド ノイズキャンセリング",
     "https://paypayfleamarket.yahoo.co.jp/item/z552726726|13,400円|jbl tour pro 2 ワイヤレスイヤホン",
@@ -160,11 +160,6 @@
       "price": "11,000円"
     },
     {
-      "url": "https://paypayfleamarket.yahoo.co.jp/item/z558108226",
-      "title": "新品未開封 JBL TOUR PRO2 BLACK ノイズキャンセリングワイヤレスイヤホン ブラック",
-      "price": "14,400円"
-    },
-    {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/z545309348",
       "title": "新品未開封 JBL TOUR PRO2 BLACK ノイズキャンセリングワイヤレスイヤホン ブラック",
       "price": "14,300円"
@@ -185,19 +180,24 @@
       "price": "13,500円"
     },
     {
-      "url": "https://paypayfleamarket.yahoo.co.jp/item/z537961968",
-      "title": "新品未開封　JBL TOUR PRO2 ワイヤレスイヤホン",
-      "price": "15,000円"
-    },
-    {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/l1219403752",
       "title": "JBL TOUR PRO2 ワイヤレスイヤホン",
       "price": "12,600円"
     },
     {
+      "url": "https://paypayfleamarket.yahoo.co.jp/item/z558108226",
+      "title": "新品未開封 JBL TOUR PRO2 BLACK ノイズキャンセリングワイヤレスイヤホン ブラック",
+      "price": "14,400円"
+    },
+    {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/z602840208",
       "title": "JBL TOUR PRO 2 完全ワイヤレスイヤホン",
       "price": "13,000円"
+    },
+    {
+      "url": "https://paypayfleamarket.yahoo.co.jp/item/z537961968",
+      "title": "新品未開封　JBL TOUR PRO2 ワイヤレスイヤホン",
+      "price": "15,000円"
     },
     {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/z549139664",
