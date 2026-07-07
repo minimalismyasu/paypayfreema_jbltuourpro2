@@ -1,8 +1,8 @@
 {
   "initialized": true,
   "seen_keys": [
-    "https://paypayfleamarket.yahoo.co.jp/item/z638916926|10,000円|美品 jbl tour pro2 ハイブリッド ノイズキャンセリング 完全ワイヤレスイヤホン シリコンケース付属",
     "https://paypayfleamarket.yahoo.co.jp/item/d1217203326|13,000円|jbl tour pro 2 ワイヤレスイヤフォン スマホ操作 k110s",
+    "https://paypayfleamarket.yahoo.co.jp/item/z638916926|10,000円|美品 jbl tour pro2 ハイブリッド ノイズキャンセリング 完全ワイヤレスイヤホン シリコンケース付属",
     "https://paypayfleamarket.yahoo.co.jp/item/z619217550|10,000円|jbl tour pro 2 今週限定1万円",
     "https://paypayfleamarket.yahoo.co.jp/item/z579778558|14,800円|jbl tour pro 2 ブラック 新品未使用",
     "https://paypayfleamarket.yahoo.co.jp/item/z561254422|14,200円|jbl tour pro2 ワイヤレスイヤホン ブラック",
@@ -39,14 +39,14 @@
   ],
   "items": [
     {
-      "url": "https://paypayfleamarket.yahoo.co.jp/item/z638916926",
-      "title": "美品 JBL TOUR PRO2 ハイブリッド ノイズキャンセリング 完全ワイヤレスイヤホン シリコンケース付属",
-      "price": "10,000円"
-    },
-    {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/d1217203326",
       "title": "JBL Tour Pro 2 ワイヤレスイヤフォン スマホ操作 K110s",
       "price": "13,000円"
+    },
+    {
+      "url": "https://paypayfleamarket.yahoo.co.jp/item/z638916926",
+      "title": "美品 JBL TOUR PRO2 ハイブリッド ノイズキャンセリング 完全ワイヤレスイヤホン シリコンケース付属",
+      "price": "10,000円"
     },
     {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/z619217550",
