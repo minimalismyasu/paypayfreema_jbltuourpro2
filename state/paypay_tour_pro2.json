@@ -1,6 +1,7 @@
 {
   "initialized": true,
   "seen_keys": [
+    "https://paypayfleamarket.yahoo.co.jp/item/z668123444|12,500円|jbl tour pro 2 完全ワイヤレスイヤホン ノイズキャンセリング",
     "https://paypayfleamarket.yahoo.co.jp/item/b1240799699|11,200円|jbl tour pro 2 ワイヤレスイヤホン 本体",
     "https://paypayfleamarket.yahoo.co.jp/item/z664185202|15,000円|jbl tour pro2 聴色",
     "https://paypayfleamarket.yahoo.co.jp/item/z645348584|12,600円|jbl tour pro 2 完全ワイヤレスイヤホン ブラック ノイズキャンセリング",
@@ -24,6 +25,11 @@
     "https://paypayfleamarket.yahoo.co.jp/item/z568126812|11,800円|jbl tour pro2 ワイヤレスイヤホン ジェイビーエル ゆるしいろ"
   ],
   "items": [
+    {
+      "url": "https://paypayfleamarket.yahoo.co.jp/item/z668123444",
+      "title": "JBL TOUR PRO 2 完全ワイヤレスイヤホン ノイズキャンセリング",
+      "price": "12,500円"
+    },
     {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/b1240799699",
       "title": "JBL TOUR PRO 2 ワイヤレスイヤホン 本体",
