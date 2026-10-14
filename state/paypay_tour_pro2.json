@@ -1,9 +1,10 @@
 {
   "initialized": true,
   "seen_keys": [
+    "https://paypayfleamarket.yahoo.co.jp/item/z658267336|14,200円|jbl tour pro 2 完全ワイヤレスイヤホン ノイズキャンセリング ブラック",
     "https://paypayfleamarket.yahoo.co.jp/item/g1243026159|10,100円|jbl tour pro 2 ワイヤレスイヤホン 本体",
-    "https://paypayfleamarket.yahoo.co.jp/item/z683524454|13,300円|jbl tour pro 2 完全ワイヤレスイヤホン ノイズキャンセリング ブラック",
     "https://paypayfleamarket.yahoo.co.jp/item/z669609804|14,980円|jbl tour pro 2 完全ワイヤレスイヤホン ブラック",
+    "https://paypayfleamarket.yahoo.co.jp/item/z683524454|13,300円|jbl tour pro 2 完全ワイヤレスイヤホン ノイズキャンセリング ブラック",
     "https://paypayfleamarket.yahoo.co.jp/item/z671630252|10,000円|jbl tour pro 2",
     "https://paypayfleamarket.yahoo.co.jp/item/z693799224|10,800円|jbl tour pro 2 ワイヤレスイヤフォン ノイズキャンセリング",
     "https://paypayfleamarket.yahoo.co.jp/item/z601759178|14,200円|jbl tour pro 2 ワイヤレスイヤホン ノイズキャンセリング ブラック",
@@ -24,19 +25,24 @@
   ],
   "items": [
     {
+      "url": "https://paypayfleamarket.yahoo.co.jp/item/z658267336",
+      "title": "JBL TOUR PRO 2 完全ワイヤレスイヤホン ノイズキャンセリング ブラック",
+      "price": "14,200円"
+    },
+    {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/g1243026159",
       "title": "JBL TOUR PRO 2 ワイヤレスイヤホン 本体",
       "price": "10,100円"
     },
     {
-      "url": "https://paypayfleamarket.yahoo.co.jp/item/z683524454",
-      "title": "JBL TOUR PRO 2 完全ワイヤレスイヤホン ノイズキャンセリング ブラック",
-      "price": "13,300円"
-    },
-    {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/z669609804",
       "title": "JBL Tour Pro 2 完全ワイヤレスイヤホン ブラック",
       "price": "14,980円"
+    },
+    {
+      "url": "https://paypayfleamarket.yahoo.co.jp/item/z683524454",
+      "title": "JBL TOUR PRO 2 完全ワイヤレスイヤホン ノイズキャンセリング ブラック",
+      "price": "13,300円"
     },
     {
       "url": "https://paypayfleamarket.yahoo.co.jp/item/z671630252",
